@@ -10,7 +10,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-color: whitesmoke;
+    background-image: url(Image/um.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -19,7 +19,6 @@ body{
 section{
     position: relative;
     max-width: 400px;
-    background-color: #209677;
     border: 2px solid rgb(255, 255, 255, 0.5);
     border-radius: 20px;
     backdrop-filter: blur(55px);
